@@ -1,6 +1,6 @@
 # proxychecker
 Simple to use proxy checker written in python 3.8
-
+Simply put .txt files in proxyFolder containing proxies u wish to check(checks all files)
 
 checks/loads proxyFolder for all .txt files containing proxies format is (ip:port)
 next tests each proxy using this url https://jesuit1771.pythonanywhere.com
